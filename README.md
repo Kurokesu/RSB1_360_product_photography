@@ -12,3 +12,7 @@ Designed for motin control family:
 Modular software concept allows g-code generation and to control motion controller and DSLR camera.
 
 ![Main](pictures/generator.png)
+
+Motion platform allows fully automated 360° product capture and have fast production ready results.
+
+![Main](pictures/totoro.gif)
