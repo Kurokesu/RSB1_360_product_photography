@@ -9,3 +9,4 @@ venv
 releases
 *.bat
 scripts
+*.spec
