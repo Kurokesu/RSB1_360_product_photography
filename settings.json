@@ -1,0 +1,15 @@
+{
+    "auto_connect_after_restart": false,
+    "beep_when_done": false,
+    "boot_count": 1258,
+    "clean_exit": true,
+    "com_baud": 115200,
+    "com_timeout": 5.0,
+    "controller_feedback_interval": 50,
+    "flash_when_done": false,
+    "logging_level": "DEBUG",
+    "port": "COM3",
+    "remember_last_com_port": true,
+    "remember_last_loaded_profile": false,
+    "start_compact": false
+}

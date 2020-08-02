@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>rsb1_5.png</file>
+    <file>restart.png</file>
+    <file>kurokesu3.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+dist
+build
+.idea
+inbox
+*.log*
+venv
+releases
+*.bat
