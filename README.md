@@ -5,7 +5,7 @@ Advanced GUI software for motorized 360 product photography
 Designed for motin control family:
 * [Kurokesu motion systems](https://www.kurokesu.com/shop/motion_systems)
 * [Motion controller documentation](https://wiki.kurokesu.com/shelves/motion-controllers)
-* [Motion actoator documentation](https://wiki.kurokesu.com/shelves/motion-actuators)
+* [Motion actuator documentation](https://wiki.kurokesu.com/shelves/motion-actuators)
 
 ![RSB1](pictures/Kurokesu_Motion_family_2.jpg)
 
