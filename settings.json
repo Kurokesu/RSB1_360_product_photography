@@ -1,8 +1,8 @@
 {
     "auto_connect_after_restart": false,
     "beep_when_done": false,
-    "boot_count": 1259,
-    "clean_exit": true,
+    "boot_count": 1260,
+    "clean_exit": false,
     "com_baud": 115200,
     "com_timeout": 5.0,
     "controller_feedback_interval": 50,
